@@ -8,6 +8,7 @@ Just a bit colorized.
 
 Example you can see below:
 
-![Monokai Colorized](https://github.com/m1x0n/Monokai-Colorized/blob/master/screenshot.png)
+![Monokai Colorized](https://github.com/m1x0n/Monokai-Colorized/blob/master/screenshot.png?raw=true)
 
 Enjoy it!
+
